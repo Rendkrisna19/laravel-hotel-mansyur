@@ -20,7 +20,7 @@ class UserSeeder extends Seeder
                 'name' => 'Hamba Allah',
                 'email' => 'adminhh@gmail.com',
                 'phone' => '0812345678901',
-                'password' => bcrypt('hhebatadmin'),
+                'password' => bcrypt('  '),
                 'role' => 'admin',
             ],
             [
@@ -36,7 +36,7 @@ class UserSeeder extends Seeder
                 'phone' => '0812345678901',
                 'role' => 'customer',
                 'password' => bcrypt('mfau1407'),
-            ],
+            ], 
             [
                 'name' => 'Receptionis',
                 'email' => 'receptionis@gmail.com',

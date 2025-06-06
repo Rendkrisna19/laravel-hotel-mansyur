@@ -18,7 +18,7 @@ Sistem booking hotel berbasis web yang dibangun menggunakan Laravel dan Bootstra
 - **Frontend**: Bootstrap 5, Blade Template
 - **Database**: MySQL
 - **Autentikasi**: Laravel Breeze (atau Laravel UI)
-- **Lainnya**: SweetAlert2, Font Awesome
+- **Lainnya**: SweetAlert2, Font Awesom
 
 ## 📂 Struktur Folder Utama
 
